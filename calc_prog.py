@@ -43,3 +43,15 @@ elif choice == 'd':
 else:
    print("Invalid input")'''
 
+
+
+
+
+''' now addding feature 1 to the branch'''
+
+
+print("1.+")
+print("2.-")
+print("3.*")
+print("4./")
+
