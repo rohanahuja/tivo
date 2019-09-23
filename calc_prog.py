@@ -22,6 +22,8 @@ print("2.Subtract")
 print("3.Multiply")
 print("4.Divide")
 
+print ("5.modulus")
+
 '''
 # Take input from the user 
 choice = input("Enter choice (a/s/m/d) :")
